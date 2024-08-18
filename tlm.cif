@@ -1,0 +1,21 @@
+(CIF written by CleWin 5.1);
+(Indian Institute of Technology);
+(Hyderabad Yeddumailaram);
+(502205 A.P.);
+(India);
+(Layer names);
+L L1; (CleWin: 1 Layer 1/0fe08080 0fe08080);
+L L2; (CleWin: 2 Layer 2/0f60e060 0f60e060);
+L L3; (CleWin: 3 Layer 3/0fa0a020 0fa0a020);
+(Top level);
+DS1 100 1;
+9 MainSymbol;
+L L1;
+B 80 100 40 50;
+B 80 100 130 50;
+B 80 100 230 50;
+(C5Meas -14 100 -14 0);
+B 80 100 340 50;
+DF;
+C 1;
+E
